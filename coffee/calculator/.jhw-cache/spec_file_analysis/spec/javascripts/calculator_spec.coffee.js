@@ -1,0 +1,1 @@
+{"Calculator":[1],"#add":[3],"adds two numbers":[5],"#subtract":[9],"subtracts two numbers":[11],"#multiply":[15],"multiplies two numbers":[17],"#divide":[21],"divides to numbers":[23]}
